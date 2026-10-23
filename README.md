@@ -13,7 +13,7 @@ I am learning Data Structures and Algorithms from the basics and solving problem
 ## Repository Structure
 
 ```
-DSA-Journey/
+DSA-Journey-JS/
 ├── README.md
 │
 ├── 01-Arrays/
@@ -21,7 +21,7 @@ DSA-Journey/
 │   ├── day-01_FindSecondLargestNumberofArray.js
 │   ├── day-01_isSortedArray.js
 │   ├── day-01_reverseArray.js
-│   └── ArrayTraversing.html
+│   └── day-01_ArrayTraversing.html
 │
 ├── 02-Strings/
 ├── 03-Two-Pointers/
@@ -87,13 +87,14 @@ Each solution file follows this header format:
 | 01 | 23-10-2026 | Find Second Largest Number | Easy | Arrays | O(n) | O(1) |
 | 01 | 23-10-2026 | Check if Array is Sorted | Easy | Arrays | O(n) | O(1) |
 | 01 | 23-10-2026 | Reverse an Array | Easy | Arrays | O(n) | O(1) |
+| 01 | 23-10-2026 | Array Traversing (Access Element by Index) | Easy | Arrays | O(1) | O(1) |
 
 ## Progress Tracker
 
 | Metric | Count |
 | ------ | ----- |
-| Total Problems Solved | 4 |
-| Easy | 4 |
+| Total Problems Solved | 5 |
+| Easy | 5 |
 | Medium | 0 |
 | Hard | 0 |
 | Topics Completed | 0 |
