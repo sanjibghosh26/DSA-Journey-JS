@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Array Traversing</title>
+    
+</head>
+<body>
+    <!-- <b>Array Traversing Examples</b> <br> -->
+     <input type="text" id="Element" placeholder="Enter Element to Search">
+     <button onclick="getElement()">Search</button>
+    <script>
+        // Array traversing examples
+        const data=[19,27,36,46,53,65,78,80,96,40];
+        // Array Accessing using index
+        function getElement(){
+            let element=document.getElementById("Element").value;
+            if(element<data.length && typeof parseInt(element) === "number" && !isNaN(parseInt(element)) && element>=0){
+                alert(`Array[${element}] is : ${data[element]}`);
+            }else{
+                alert("Please enter a valid index");
+            }
+        }
+        // Using for loop Array Traversing
+        // for(let i=0;i<data.length;i++){
+        //     document.write(`Array[${i}] is :${data[i]}<br>`);
+        // }
+    </script>
+</body>
+</html>;
