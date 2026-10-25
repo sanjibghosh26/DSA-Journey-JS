@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insert Element in Array</title>
+</head>
+<body>
+    <script>
+        let data = [19, 27, 36, 46, 53, 65];
+
+        let newElement = parseInt(prompt("Enter Element to Insert"));
+        let index = parseInt(prompt("Enter Index to Insert Element"));
+
+        if (index >= 0 && index <= data.length) {
+            data.length++;
+
+            for (let i = data.length - 2; i >= index; i--) {
+                data[i + 1] = data[i];
+            }
+
+            data[index] = newElement;
+
+            document.write(`Array after inserting ${newElement} at index ${index} is:<br>`);
+
+            for (let i = 0; i < data.length; i++) {
+                document.write(`Array[${i}] is : ${data[i]} <br>`);
+            }
+        } else {
+            document.write("Invalid index!");
+        }
+    </script>
+</body>
+</html>

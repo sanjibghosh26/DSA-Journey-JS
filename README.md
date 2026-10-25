@@ -21,7 +21,9 @@ DSA-Journey-JS/
 │   ├── day-01_FindSecondLargestNumberofArray.js
 │   ├── day-01_isSortedArray.js
 │   ├── day-01_reverseArray.js
-│   └── day-01_ArrayTraversing.html
+│   ├── day-01_ArrayTraversing.html
+│   ├── day-02_Move_All_Zeros_to_the_End.js
+│   └── day-03_ArrayInsert.html
 │
 ├── 02-Strings/
 ├── 03-Two-Pointers/
@@ -88,13 +90,15 @@ Each solution file follows this header format:
 | 01 | 23-10-2026 | Check if Array is Sorted | Easy | Arrays | O(n) | O(1) |
 | 01 | 23-10-2026 | Reverse an Array | Easy | Arrays | O(n) | O(1) |
 | 01 | 23-10-2026 | Array Traversing (Access Element by Index) | Easy | Arrays | O(1) | O(1) |
+| 02 | 24-10-2026 | Move All Zeros to the End | Easy | Arrays | O(n) | O(1) |
+| 03 | 25-10-2026 | Array Insert | Easy | Arrays | O(n) | O(1) |
 
 ## Progress Tracker
 
 | Metric | Count |
 | ------ | ----- |
-| Total Problems Solved | 5 |
-| Easy | 5 |
+| Total Problems Solved | 7 |
+| Easy | 7 |
 | Medium | 0 |
 | Hard | 0 |
 | Topics Completed | 0 |
