@@ -94,6 +94,7 @@ Each solution file follows this header format:
 | 02 | 24-10-2026 | Move All Zeros to the End | Easy | Arrays | O(n) | O(1) |
 | 03 | 25-10-2026 | Array Insert | Easy | Arrays | O(n) | O(1) |
 | 04 | 26-10-2026 | Remove Duplicates from sorted Array | Easy | Arrays | O(n) | O(1) |
+| 05 | 27-10-2026 | Rotate Array | Medium | Arrays | O(n) | O(1) |
 
 ## Progress Tracker
 
