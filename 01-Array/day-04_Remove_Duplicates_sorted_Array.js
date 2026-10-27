@@ -13,9 +13,10 @@ function removeDuplicates(nums) {
     return write + 1;
 }
 
-let arr = [1, 1, 2, 2, 3, 4, 4];
+let arr = [1, 1, 2, 2, 3, 3, 4, 4];
 
 let count = removeDuplicates(arr);
 
 console.log(count); // 4
-console.log(arr);   // [1, 2, 3, 4, 3, 4, 4]
+console.log(arr); // [1, 2, 3, 4, 3, 3, 4, 4]
+console.log("Modified Array:", arr.slice(0, count));   // [1, 2, 3, 4]
