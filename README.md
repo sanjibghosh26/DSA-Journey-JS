@@ -25,6 +25,7 @@ DSA-Journey-JS/
 │   ├── day-02_Move_All_Zeros_to_the_End.js
 │   └── day-03_ArrayInsert.html
 │   └── day-04_Remove_Duplicates_sorted_Array.js
+│   └── day-05_Rotate_Array.js
 │
 ├── 02-Strings/
 ├── 03-Two-Pointers/
@@ -100,9 +101,9 @@ Each solution file follows this header format:
 
 | Metric | Count |
 | ------ | ----- |
-| Total Problems Solved | 8 |
+| Total Problems Solved | 9 |
 | Easy | 8 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 0 |
 | Topics Completed | 0 |
 
