@@ -1,6 +1,8 @@
 function rotateArray(arr, k) {
     let n = arr.length;
+    if (n === 0) return;
     k = k % n; // Handle cases where k is greater than n. (e.g., 10 % 7 = 3 - rotate 3 times instead of 10 times)
+    if (k === 0) return;
     reverse(arr, 0, n - 1); // Reverse the entire array (0 to n-1)
     reverse(arr, 0, k - 1); // Reverse the first k elements (0 to k-1)
     reverse(arr, k, n - 1); // Reverse the remaining elements (k to n-1)
