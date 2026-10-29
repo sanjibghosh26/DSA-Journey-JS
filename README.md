@@ -27,6 +27,7 @@ DSA-Journey-JS/
 │   └── day-04_Remove_Duplicates_sorted_Array.js
 │   └── day-05_Rotate_Array.js
 │   └── day-06_Maximum_Consecutive_ones.js
+│   └── day-07_Single_Number.js
 │
 ├── 02-Strings/
 ├── 03-Two-Pointers/
@@ -98,13 +99,14 @@ Each solution file follows this header format:
 | 04 | 26-10-2026 | Remove Duplicates from sorted Array | Easy | Arrays | O(n) | O(1) |
 | 05 | 27-10-2026 | Rotate Array | Medium | Arrays | O(n) | O(1) |
 | 06 | 28-10-2026 | Maximum Consecutive Ones | Easy | Arrays | O(n) | O(1) |
+| 07 | 29-10-2026 | Single Number | Easy | Arrays | O(n) | O(1) |
 
 ## Progress Tracker
 
 | Metric | Count |
 | ------ | ----- |
-| Total Problems Solved | 10 |
-| Easy | 9 |
+| Total Problems Solved | 11 |
+| Easy | 10 |
 | Medium | 1 |
 | Hard | 0 |
 | Topics Completed | 0 |
