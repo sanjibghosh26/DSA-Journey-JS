@@ -29,6 +29,7 @@ DSA-Journey-JS/
 │   └── day-06_Maximum_Consecutive_ones.js
 │   └── day-07_Single_Number.js
 │   └── day-08_best-time-to-buy-and-sell-stock.js
+│   └── day-09_majority_element.js
 │
 ├── 02-Strings/
 ├── 03-Two-Pointers/
@@ -102,13 +103,14 @@ Each solution file follows this header format:
 | 06 | 28-10-2026 | Maximum Consecutive Ones | Easy | Arrays | O(n) | O(1) |
 | 07 | 29-10-2026 | Single Number | Easy | Arrays | O(n) | O(1) |
 | 08 | 30-10-2026 | Best Time to Buy and sell stock | Easy | Arrays | O(n) | O(1) |
+| 09 | 31-10-2026 | Majority Element | Easy | Arrays | O(n^2) | O(1) |
 
 ## Progress Tracker
 
 | Metric | Count |
 | ------ | ----- |
-| Total Problems Solved | 12 |
-| Easy | 11 |
+| Total Problems Solved | 13 |
+| Easy | 12 |
 | Medium | 1 |
 | Hard | 0 |
 | Topics Completed | 0 |
