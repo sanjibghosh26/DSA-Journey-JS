@@ -13,5 +13,4 @@ function majorityElement(nums) {
         }
     }
 }
-const nums = [3, 2, 3];
-console.log(majorityElement(nums)); // Output: 3
+console.log(majorityElement([3, 2, 3])); // Output: 3
