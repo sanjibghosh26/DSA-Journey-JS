@@ -30,6 +30,7 @@ DSA-Journey-JS/
 │   └── day-07_Single_Number.js
 │   └── day-08_best-time-to-buy-and-sell-stock.js
 │   └── day-09_majority_element.js
+│   └── day-10_maximum_subarray_sum.js
 │
 ├── 02-Strings/
 ├── 03-Two-Pointers/
@@ -104,14 +105,15 @@ Each solution file follows this header format:
 | 07 | 29-10-2026 | Single Number | Easy | Arrays | O(n) | O(1) |
 | 08 | 30-10-2026 | Best Time to Buy and sell stock | Easy | Arrays | O(n) | O(1) |
 | 09 | 31-10-2026 | Majority Element | Easy | Arrays | O(n^2) | O(1) |
+| 10 | 01-11-2026 | Maximum SubArray Sum | Medium | Arrays | O(n^2) | O(1) |
 
 ## Progress Tracker
 
 | Metric | Count |
 | ------ | ----- |
-| Total Problems Solved | 13 |
+| Total Problems Solved | 14 |
 | Easy | 12 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 | Topics Completed | 0 |
 
